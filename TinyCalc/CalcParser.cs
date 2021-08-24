@@ -14,18 +14,18 @@ namespace TinyCalc
             int b = Int32.Parse(args[1]);
             if (input.Contains('+'))
             {
-                result = a + b;
+                result = Sum(a,b);
             }
             else if (input.Contains('-'))
             {
-                result = a - b;
+                result = Substr(a,b);
             }
             else if (input.Contains('*'))
             {
-                result = a * b;
+                result = Multi(a,b);
             }else if (input.Contains('/'))
             {
-                result = a / b;
+                result = Divide(a,b);
             }
             else
             {
