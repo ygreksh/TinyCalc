@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TinyCalc", "TinyCalc\TinyCalc.csproj", "{5D214784-263A-4A6F-9D03-FC3B937F8090}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D214784-263A-4A6F-9D03-FC3B937F8090}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D214784-263A-4A6F-9D03-FC3B937F8090}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D214784-263A-4A6F-9D03-FC3B937F8090}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D214784-263A-4A6F-9D03-FC3B937F8090}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
