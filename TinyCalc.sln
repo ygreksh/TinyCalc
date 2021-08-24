@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TinyCalc", "TinyCalc\TinyCalc.csproj", "{5D214784-263A-4A6F-9D03-FC3B937F8090}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TinyCalc.test", "TinyCalc.test\TinyCalc.test.csproj", "{E9EE7330-11E9-48AB-96D5-B0A64129FCFB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{5D214784-263A-4A6F-9D03-FC3B937F8090}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5D214784-263A-4A6F-9D03-FC3B937F8090}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5D214784-263A-4A6F-9D03-FC3B937F8090}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9EE7330-11E9-48AB-96D5-B0A64129FCFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9EE7330-11E9-48AB-96D5-B0A64129FCFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9EE7330-11E9-48AB-96D5-B0A64129FCFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9EE7330-11E9-48AB-96D5-B0A64129FCFB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
