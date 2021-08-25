@@ -5937,11 +5937,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ygrek\\RiderProjects\\TinyCalc\\TinyCalc.test\\TinyCalc.test.csproj",
+      "projectUniqueName": "D:\\Ygrek\\Программирование\\Csharp\\TinyCalc\\TinyCalc.test\\TinyCalc.test.csproj",
       "projectName": "TinyCalc.test",
-      "projectPath": "C:\\Users\\ygrek\\RiderProjects\\TinyCalc\\TinyCalc.test\\TinyCalc.test.csproj",
+      "projectPath": "D:\\Ygrek\\Программирование\\Csharp\\TinyCalc\\TinyCalc.test\\TinyCalc.test.csproj",
       "packagesPath": "C:\\Users\\ygrek\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ygrek\\RiderProjects\\TinyCalc\\TinyCalc.test\\obj\\",
+      "outputPath": "D:\\Ygrek\\Программирование\\Csharp\\TinyCalc\\TinyCalc.test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5962,8 +5962,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\ygrek\\RiderProjects\\TinyCalc\\TinyCalc\\TinyCalc.csproj": {
-              "projectPath": "C:\\Users\\ygrek\\RiderProjects\\TinyCalc\\TinyCalc\\TinyCalc.csproj"
+            "D:\\Ygrek\\Программирование\\Csharp\\TinyCalc\\TinyCalc\\TinyCalc.csproj": {
+              "projectPath": "D:\\Ygrek\\Программирование\\Csharp\\TinyCalc\\TinyCalc\\TinyCalc.csproj"
             }
           }
         }
