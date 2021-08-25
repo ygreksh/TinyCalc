@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/h9GC7uC7q2Gbj66MVRWIJ5SM4/EY27SyVwh0ZlT8BGcQgSwJ/wsW3vsah9WSCucSUW+hqWLQlfhyT6XdyEEGw==",
+  "dgSpecHash": "VnHS5sBzwAZzZCSLCU7vjWNRLKO2CO1e2t6SQdbZlBt6wlIF9cWcIz+XnDXlzZAT+rTjYW9BcVdgtKJ38nM5og==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ygrek\\RiderProjects\\TinyCalc\\TinyCalc.test\\TinyCalc.test.csproj",
+  "projectFilePath": "D:\\Ygrek\\Программирование\\Csharp\\TinyCalc\\TinyCalc.test\\TinyCalc.test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ygrek\\.nuget\\packages\\microsoft.codecoverage\\16.11.0\\microsoft.codecoverage.16.11.0.nupkg.sha512",
     "C:\\Users\\ygrek\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
